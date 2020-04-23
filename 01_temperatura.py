@@ -1,4 +1,4 @@
-print('Bem vindo Ze Pequeno!!!')
+print('Nao seja Bem vindo Ze Pequeno!!!')
 
 # leitura e conversao
 temp_celsius = input('Informe a temperatura: ')
